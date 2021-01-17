@@ -2,7 +2,7 @@
 
 | | |
 |-|-|
-| <img width=150 src="assets/images/parrot-app-logo.png"> | Parrot is an iOS app to record audio and play back recordings on a continuous loop. |
+| <img width=150 src="assets/images/app-logo.png"> | Parrot is an iOS app to record audio and play back recordings on a continuous loop. |
 
 ## Privacy
 Recordings are private and only stored on device. For added privacy, please consider enabling Privacy Screen in Settings, which requires Touch ID/Face ID when opening the app. You can view our privacy policy [here](privacy-policy).
