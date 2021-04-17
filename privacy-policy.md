@@ -20,8 +20,9 @@ We never collect or maintain information from those we actually know are under 1
 By using our app, you consent to our privacy policy.
 
 ## Contacting Us
-If you have questions regarding this privacy policy, please email [privacy@parrotapp.dev](mailto:privacy@parrotapp.dev).
+If you have questions regarding this privacy policy, please [email us](mailto:privacy@blta.co?subject=Parrot App Privacy Policy).
 
 ## Policy Changes
 If we decide to change our privacy policy, we will post summary of those changes here:
+* **April 16, 2021**: Updated privacy email address
 * **January 9, 2021**: First published
